@@ -1,4 +1,5 @@
 # Dynamic-analysis-of-suspension
+## DesignReport.pdf contains overall report of suspesnion design for B19
 An approximation to the trajectory of suspension.
 
 ## Suspension Forces:
