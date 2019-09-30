@@ -6,7 +6,8 @@ An approximation to the trajectory of suspension.
 
 1) **Front_Suspension.m**: Used for calculation of Forces in Double Wishbone Suspesion
 2) **Rear_Suspesion.m**: Used for calculating forces in multi link rear suspesion with damper mounted on knucle.
-3) **Pullrood.m** : Used for calculating forces in Pull rod type suspension.
+3) **front_force_distriution_in_connected_links.m**:  Used for calculating forces in Pull rod type suspension.
+4) **rear_force_distriution_in_connected_links**: Used for calculating forces in Push rod type suspension.
 
 ## Suspension Analysis:
 
